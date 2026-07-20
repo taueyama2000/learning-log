@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Jupyter / editors
+.ipynb_checkpoints/
+
+# Generated outputs
+artifacts/**/*.joblib
